@@ -22,4 +22,7 @@
 
     <!-- Whether to show the search box in the Setup Wizard locale picker. -->
     <bool name="config_show_setuplocalepicker_region_searchbox">true</bool>
+
+    <!-- Show Now Playing -->
+    <bool name="config_show_now_playing">false</bool>
 </resources>
